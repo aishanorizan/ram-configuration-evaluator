@@ -16,7 +16,7 @@ jobNumber[0] = new JobList(10, 8703, 0, -1)
 
 Compile & run the java program - JobList.java.
 
-The evaluation need to consider the following performance metrics:
+The evaluation will consider the following performance metrics:
 <ol>
  <li>Turnaround time for every job and the average for all jobs;</li>
   <li>Waiting time for every job and the average for all jobs;</li>
